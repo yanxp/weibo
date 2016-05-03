@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.bigdata.gate.SpiderGate
+Class-Path: lib/jtattoo.jar lib/slf4japi.jar lib/slf4jsimple.jar lib/weiboplace.jar 
+  lib/gson.jar lib/mysqlconnector.jar 

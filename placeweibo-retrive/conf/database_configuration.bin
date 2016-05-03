@@ -1,0 +1,1 @@
+{"driver":"com.mysql.jdbc.Driver","url":"jdbc:mysql://localhost/weibopage?useUnicode\u003dtrue\u0026amp\u0026characterEncoding\u003dUTF8","user":"root","password":""}

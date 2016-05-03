@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/gson.jar"/>
+	<classpathentry kind="lib" path="lib/mysqlconnector.jar"/>
+	<classpathentry kind="lib" path="lib/slf4japi.jar"/>
+	<classpathentry kind="lib" path="lib/slf4jsimple.jar"/>
+	<classpathentry kind="lib" path="lib/weiboplace.jar"/>
+	<classpathentry kind="lib" path="lib/ui.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Administrator/Desktop/test.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/PlaceWeiboRetrive/META-INF/description.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/PlaceWeiboRetrive/META-INF/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/PlaceWeiboRetrive/JsonPage.txt"/>
+        <file path="/PlaceWeiboRetrive/mblogJson.txt"/>
+        <folder path="/PlaceWeiboRetrive/conf"/>
+        <folder path="/PlaceWeiboRetrive/lib"/>
+        <file path="/PlaceWeiboRetrive/cardJson.txt"/>
+        <file path="/PlaceWeiboRetrive/.project"/>
+        <file path="/PlaceWeiboRetrive/ui.txt"/>
+        <file path="/PlaceWeiboRetrive/userJson.txt"/>
+        <javaElement handleIdentifier="=PlaceWeiboRetrive/src"/>
+        <folder path="/PlaceWeiboRetrive/META-INF"/>
+        <file path="/PlaceWeiboRetrive/.classpath"/>
+        <file path="/PlaceWeiboRetrive/database_configuration.bin"/>
+    </selectedElements>
+</jardesc>
